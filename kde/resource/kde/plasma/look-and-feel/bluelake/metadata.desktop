@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=bluelake
+Comment=bluelake theme for kde plasma
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=ruzh
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=happyegg.chen@hotmail.com
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Name=bluelake
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-Plasma-MainScript=defaults
+X-KPackage-Dependencies=
+X-Plasma-MainScript=defaults

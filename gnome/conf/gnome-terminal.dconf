@@ -1,0 +1,6 @@
+[profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+default-size-columns=90
+default-size-rows=15
+use-theme-colors=false
+cursor-blink-mode='off'
+use-system-font=false

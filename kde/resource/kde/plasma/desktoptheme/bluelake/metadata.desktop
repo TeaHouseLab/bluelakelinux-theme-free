@@ -1,0 +1,23 @@
+[Desktop Entry]
+Name=bluelake
+X-KDE-PluginInfo-Author=yeyushengfan258&&happyegg
+X-KDE-PluginInfo-Email=happyegg.chen@hotmail.com
+X-KDE-PluginInfo-Name=bluelake
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
+
+[Wallpaper]
+defaultWallpaperTheme=bluelake
+defaultFileSuffix=.png
+defaultWidth=6000
+defaultHeight=4000

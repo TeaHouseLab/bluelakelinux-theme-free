@@ -1,0 +1,85 @@
+[budgie-panel]
+dark-theme=false
+panels=['b7b7a29c-9f74-11eb-9423-0008ca29109b']
+builtin-theme=false
+migration-level=1
+layout='default'
+
+[budgie-panel/panels/{b7b7a29c-9f74-11eb-9423-0008ca29109b}]
+size=45
+location='bottom'
+applets=['b7b7a2a5-9f74-11eb-9423-0008ca29109b', 'b7b7a2a4-9f74-11eb-9423-0008ca29109b', 'b7b7a29f-9f74-11eb-9423-0008ca29109b', 'b7b7a2a2-9f74-11eb-9423-0008ca29109b', 'b7b7a2a3-9f74-11eb-9423-0008ca29109b', 'b7b7a29e-9f74-11eb-9423-0008ca29109b', 'b7b7a2a1-9f74-11eb-9423-0008ca29109b', 'b7b7a29d-9f74-11eb-9423-0008ca29109b', 'b7b7a2a0-9f74-11eb-9423-0008ca29109b', 'b7b7a2a8-9f74-11eb-9423-0008ca29109b', 'b7b7a2a7-9f74-11eb-9423-0008ca29109b', 'b7b7a2a6-9f74-11eb-9423-0008ca29109b']
+transparency='none'
+
+[budgie-panel/instance/icon-tasklist/{b7b7a29f-9f74-11eb-9423-0008ca29109b}]
+pinned-launchers=@as []
+show-all-windows-on-click=true
+
+[budgie-panel/applets/{b7b7a2a7-9f74-11eb-9423-0008ca29109b}]
+position=7
+alignment='end'
+name='Clock'
+
+[budgie-panel/applets/{b7b7a2a3-9f74-11eb-9423-0008ca29109b}]
+position=3
+alignment='end'
+name='Status Indicator'
+
+[budgie-panel/applets/{b7b7a2a5-9f74-11eb-9423-0008ca29109b}]
+position=5
+alignment='end'
+name='Spacer'
+
+[budgie-panel/applets/{b7b7a2a1-9f74-11eb-9423-0008ca29109b}]
+position=1
+alignment='end'
+name='System Tray'
+
+[budgie-panel/applets/{b7b7a29f-9f74-11eb-9423-0008ca29109b}]
+position=2
+alignment='start'
+name='Icon Task List'
+
+[budgie-panel/applets/{b7b7a29d-9f74-11eb-9423-0008ca29109b}]
+position=0
+alignment='start'
+name='Budgie Menu'
+
+[budgie-panel/applets/{b7b7a2a8-9f74-11eb-9423-0008ca29109b}]
+position=8
+alignment='end'
+name='Raven Trigger'
+
+[budgie-panel/applets/{b7b7a2a6-9f74-11eb-9423-0008ca29109b}]
+position=6
+alignment='end'
+name='Separator'
+
+[budgie-panel/applets/{b7b7a2a2-9f74-11eb-9423-0008ca29109b}]
+position=2
+alignment='end'
+name='Notifications'
+
+[budgie-panel/applets/{b7b7a2a4-9f74-11eb-9423-0008ca29109b}]
+position=4
+alignment='end'
+name='User Indicator'
+
+[budgie-panel/applets/{b7b7a2a0-9f74-11eb-9423-0008ca29109b}]
+position=0
+alignment='end'
+name='Spacer'
+
+[budgie-panel/applets/{b7b7a29e-9f74-11eb-9423-0008ca29109b}]
+position=1
+alignment='start'
+name='Spacer'
+
+[budgie-raven]
+allow-volume-overdrive=true
+enable-week-numbers=true
+show-power-strip=true
+
+[budgie-wm]
+center-windows=false
+caffeine-mode=false
