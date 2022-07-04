@@ -1,3 +1,5 @@
+# Dropped, move to https://github.com/TeaHouseLab/CenterOS-kde
+
 ## gnome preview at https://bluelakelab.ruzhtw.top
 ## This is a default theme for kde plasma5 in the bluelakelinux server/pc
 
